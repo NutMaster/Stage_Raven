@@ -1,4 +1,4 @@
-🎓 Stage haha, yes
+🎓 Stage Plek
 By: Raven Troost
 
 📋 Descriptie
