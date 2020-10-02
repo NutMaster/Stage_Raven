@@ -1,19 +1,6 @@
 <?php
 
-use App\Http\Controllers;
 use Illuminate\Support\Facades\Route;
-
-Route::resource('products', ProductController::class);
-
-
-// Route::get('/products','ProductController');
-
-
-Route::get('products/{id}','ProductController');
-
-Route::get('/update-product','ProductController@update')->name('products.update');
-
-Route::get('products/edit/{id}','Productcontroller@updateForm');
 
 /*
 |--------------------------------------------------------------------------
